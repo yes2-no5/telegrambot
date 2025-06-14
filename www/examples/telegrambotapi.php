@@ -8,7 +8,7 @@
 
 // Устанавливаем и подключаем Composer
 $DIR_ = __DIR__;
-require_once $DIR_.'/../../backend/defines.php';
+require_once $DIR_.'/../.backend/defines.php';
 
 // Настройки по умолчанию, редактируйте в файле /telegrambot/backend/settings/bot_settings.json
 $BotSettings=[
