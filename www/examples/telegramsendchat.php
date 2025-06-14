@@ -7,7 +7,7 @@
  */
 
 // Устанавливаем и подключаем Composer
-require_once __DIR__.'/../../backend/defines.php';
+require_once __DIR__.'/../.backend/defines.php';
 
 /** Пример автоматической отправки сообщений в телеграм канал */
 
